@@ -25,6 +25,26 @@ Además, incluye integración de propiedades personalizadas mediante `@Value`, c
 
 ---
 
+
+## Evidencias 
+
+### 1. Vista con Listado General (`th:each`)
+![Listado de figuras](img/img01_listado.png)
+
+### 2. Formulario de Registro (`@ModelAttribute`)
+![Formulario de figuras](img/img02_formulario.png)
+
+### 3. Filtro de Búsqueda (`@RequestParam`)
+![Filtro por anime](img/img03_request_param.png)
+
+### 4. Vista Detallada por ID (`@PathVariable`)
+![Detalle de figura](img/img04_path_variable.png)
+
+### 5. Petición POST JSON en Postman (`@RequestBody`)
+![Prueba en Postman](img/img05_postman.png)
+
+---
+
 ##  Links
 
 * **Actividad 2 (Puerto 8083):** `http://3.148.185.31:8083/figuras/listar`
